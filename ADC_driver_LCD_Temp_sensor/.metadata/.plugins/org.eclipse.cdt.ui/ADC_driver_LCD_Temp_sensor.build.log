@@ -1,0 +1,20 @@
+22:51:17 **** Incremental Build of configuration Debug for project ADC_driver_LCD_Temp_sensor ****
+make all 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 ADC_driver_LCD_Temp_sensor.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    9208 bytes (28.1% Full)
+(.text + .data + .bootloader)
+
+Data:        278 bytes (13.6% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+
+22:51:17 Build Finished. 0 errors, 0 warnings. (took 142ms)
+
